@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Google Map Mark Current Location</string>
+    <string name="mark_current_location">Mark Current Location</string>
+</resources>
